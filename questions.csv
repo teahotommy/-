@@ -1,0 +1,17 @@
+﻿id,type,difficulty,image,answer,explanation
+q1,등비수열,하,images/자이 16-1.png,19,images/자이 16-1해설.png
+q2,등비수열,중,images/자이 16-2.png,4|162,images/자이 16-2해설.png
+q3,로그의 연산,중,images/자이17-2.png,2|270,images/자이17-2해설.png
+q4,등비수열,하,images/6-1번.png,496,images/6-1번 답지..png
+q5,등비수열,하,images/6-2번..png,2분의1,images/6-2번 답지..png
+q6,등비수열,하,images/6-3번..png,4,images/6-3번 답지..png
+q7,삼각함수,중,images/7-2번.png,3,images/7-2번 답지.png
+q8,지수함수와 로그함수,하,images/8-1번.png,7,images/8-1번 답지.png
+q9,지수함수와 로그함수,중,images/8-2번.png,63,images/8-2번 답지.png
+q10,지수함수와 로그함수,중,images/8-3번.png,1|ㄱ,images/8-3번 답지.png 
+q11,지수,하,images/9-1번.png,33,images/9-1번 답지.png
+q12,지수,하,images/9-2번.png,2,images/9-2번 답지.png
+q13,지수,중,images/9-3번.png,15,images/9-3번 답지.png
+q14,로그,하,images/10-1번.png,2|6,images/10-1번 답지.png
+q15,로그,중,images/10-2번.png,5,images/10-2번 답지.png
+q16,로그,중,images/10-3번.png,4,images/10-3번 답지.png
