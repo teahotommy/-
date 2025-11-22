@@ -15,3 +15,29 @@ q13,지수,중,images/9-3번.png,15,images/9-3번 답지.png
 q14,로그,하,images/10-1번.png,2|6,images/10-1번 답지.png
 q15,로그,중,images/10-2번.png,5,images/10-2번 답지.png
 q16,로그,중,images/10-3번.png,4,images/10-3번 답지.png
+q17,지수,하,images/11-1.png,3|9,images/11-1 답지.png
+q18,지수,중,images/11-2.png,124,images/11-2 답지.png
+q19,지수,상,images/11-3.png,1|11,images/11-3 답지.png
+q20,지수함수와 로그함수,하,images/12-1.png,14,images/12-1 답지.png
+q21,지수함수와 로그함수,중,images/12-2.png,5,images/12-2 답지.png
+q22,지수함수와 로그함수,하,images/13-1.png,1|6,images/13-1 답지.png
+q23,지수함수와 로그함수,상,images/13-3.png,1|7,images/13-3 답지.png
+q24,지수함수와 로그함수,하,images/14-1.png,5|32,images/14-1 답지.png
+q25,지수함수와 로그함수,중,images/14-2.png,1|2,images/14-2 답지.png
+q26,지수함수와 로그함수,상,images/14-3.png,80,images/14-3 답지.png
+q27,로그,하,images/15-1.png,1|1,images/15-1 답지.png
+q28,로그,중,images/15-2.png,2|25,images/15-2 답지.png
+q29,로그,상,images/15-3.png,1|14,images/15-3 답지.png
+q30,지수의 확장,하,images/1번 유형(1).png,1|4,images/1번 유형(1) 답안지.png
+q31,지수의 확장,중,images/1번 유형(2).png,2|6,images/1번 유형(2) 답안지.png
+q32,지수의 확장,상,images/1번 유형(3).png,4|12,images/1번 유형(3) 답안지.png
+q33,로그의 연산,하,images/2번 유형(1).png,1,images/2번 유형(1) 답안지.png
+q34,로그의 연산,중,images/2번 유형(2).png,2,images/2번 유형(2) 답안지.png
+q35,로그의 연산,상,images/2번 유형(3).png,1|93,images/2번 유형(3) 답안지.png
+q36,지수함수와 로그함수,하,images/3번 유형(1).png,1,images/3번 유형(1) 답안지.png
+q37,지수함수와 로그함수,중,images/3번 유형(2).png,47,images/3번 유형(2) 답안지.png
+q38,지수함수와 로그함수,상,images/3번 유형(3).png,3,images/3번 유형(3) 답안지.png
+q39,등비수열의 뜻,하,images/4번 유형(1).png,32,images/4번 유형(1) 답안지.png
+q40,등비수열의 뜻,중,images/4번 유형(2).png,19,images/4번 유형(2) 답안지.png
+q41,등비수열의 합,중,images/5번 유형(2).png,2|4,images/5번 유형(2) 답안지.png
+q42,등비수열의 합,상,images/5번 유형(3).png,3|2^11-2,images/5번 유형(3) 답안지.png
